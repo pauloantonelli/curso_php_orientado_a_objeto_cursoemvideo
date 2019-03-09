@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ts-loader": "^5.2.1",
+    "uniq": "^1.0.1"
+  }
+}
